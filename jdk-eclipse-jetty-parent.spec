@@ -10,6 +10,7 @@ BuildRequires : apache-maven
 BuildRequires : javapackages-tools
 BuildRequires : jdk-aether
 BuildRequires : jdk-aopalliance
+BuildRequires : jdk-apache-parent
 BuildRequires : jdk-atinject
 BuildRequires : jdk-cdi-api
 BuildRequires : jdk-commons-cli
@@ -20,6 +21,7 @@ BuildRequires : jdk-commons-io
 BuildRequires : jdk-commons-lang
 BuildRequires : jdk-commons-lang3
 BuildRequires : jdk-commons-logging
+BuildRequires : jdk-commons-parent
 BuildRequires : jdk-doxia
 BuildRequires : jdk-doxia-sitetools
 BuildRequires : jdk-guava
