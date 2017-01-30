@@ -1,6 +1,6 @@
 Name     : jdk-eclipse-jetty-parent
 Version  : 19
-Release  : 2
+Release  : 3
 URL      : http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-parent/19/jetty-parent-19.pom
 Source0  : http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-parent/19/jetty-parent-19.pom
 Summary  : No detailed summary available
